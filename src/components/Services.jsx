@@ -117,6 +117,20 @@ export default function Services() {
         { name: 'Income & Financial Profile Review', desc: 'Reviewing tax and salary statements to build a solid case.', icon: LuTrendingUp },
         { name: 'Application Error Correction', desc: 'Modifying errors in applications before they trigger rejection.', icon: LuFileSpreadsheet }
       ]
+    },
+    {
+      title: 'Corporate Services & Compliance',
+      shortTitle: 'Corporate & Compliance',
+      icon: LuBriefcase,
+      image: '/images/services-corporate.png',
+      desc: 'Expert support for business registrations, regulatory filings, corporate tax compliance, and legal auditing.',
+      services: [
+        { name: 'Business Registration', desc: 'End-to-end incorporation services for Private Limited, LLP, Partnership, and Sole Proprietorship firms.', icon: LuBriefcase },
+        { name: 'GST Compliance', desc: 'Hassle-free GST registration, timely filing of monthly/quarterly returns, and reconciliation.', icon: LuFileSpreadsheet },
+        { name: 'Income Tax Filing', desc: 'Accurate tax computation, preparation, and professional filing of IT returns for businesses and individuals.', icon: LuTrendingUp },
+        { name: 'MCA Compliance', desc: 'Managing corporate secretarial activities, annual RoC filings, and statutory regulatory requirements.', icon: LuShieldAlert },
+        { name: 'HR & Payroll Management', desc: 'Streamlined employee management, salary disbursements, PF, ESIC compliance, and contract drafting.', icon: LuBriefcase }
+      ]
     }
   ]
 

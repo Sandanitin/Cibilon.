@@ -23,10 +23,10 @@ function App() {
           element={
             <main className="w-full overflow-hidden">
               <Hero />
-              <About />
-              <WhyChooseUs />
               <Services />
               <WorkProcess />
+              <About />
+              <WhyChooseUs />
               <Stats />
               <Testimonials />
               <FAQ />
